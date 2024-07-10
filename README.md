@@ -1,5 +1,7 @@
 # Telco Customer Churn Classification
 
+![](https://github.com/sujikathir/Telco-Customer-Churn-Prediction/blob/main/Images/Cover%20pic.jpg)
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Project Overview](#project-overview)
